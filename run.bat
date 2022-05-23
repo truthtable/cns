@@ -1,0 +1,2 @@
+gcc code.c
+a
